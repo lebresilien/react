@@ -49,6 +49,13 @@ function Header({ siteTitle }) {
             </Link>
 
             <Link
+              to="/profil"
+              className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
+            >
+              Profil
+            </Link>
+
+            <Link
               to="/about"
               className="block md:inline-block mt-4 md:mt-0 mr-6 no-underline text-white"
             >
@@ -60,6 +67,13 @@ function Header({ siteTitle }) {
               className="block md:inline-block mt-4 md:mt-0 no-underline text-white"
             >
               Contact
+            </Link>
+
+             <Link
+              to="/transactions"
+              className="block md:inline-block mt-4 md:mt-0 no-underline text-white"
+            >
+              Transaction
             </Link>
           </div>
         </div>

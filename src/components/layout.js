@@ -31,7 +31,7 @@ function Layout({ children }) {
               href="https://taylorbryant.blog"
               className="font-bold no-underline text-white"
             >
-              Taylor Bryant
+              Lebresilien Advisor
             </a>
           </p>
 

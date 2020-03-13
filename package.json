@@ -4,6 +4,7 @@
   "version": "3.0.94",
   "author": "Taylor Bryant <taylor@bryant.io>",
   "dependencies": {
+    "@reach/dialog": "^0.4.0",
     "gatsby": "2.13.73",
     "gatsby-plugin-manifest": "2.2.6",
     "gatsby-plugin-offline": "2.2.7",
@@ -14,7 +15,10 @@
     "prop-types": "15.7.2",
     "react": "16.9.0",
     "react-dom": "16.9.0",
-    "react-helmet": "5.2.1"
+    "react-helmet": "5.2.1",
+    "react-paginate": "^6.3.0",
+    "react-toast-notifications": "^2.2.5",
+    "react-toasts": "^3.0.3"
   },
   "keywords": [
     "gatsby",
